@@ -22,3 +22,8 @@ body {
 
 /* STYLES */
 /* Write your CSS below */
+
+h1{
+  text-align: center;
+  font-weight: bolder;
+}
