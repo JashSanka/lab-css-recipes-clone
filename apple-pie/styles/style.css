@@ -26,4 +26,24 @@ body {
 h1{
   text-align: center;
   font-weight: bolder;
+
+}
+.start{
+  background-image:url('../images/apple-pie.jpg') ;
+  background-position: center top;
+    background-repeat: no-repeat;
+    background-size: max(1200px, 100vw);
+    height: 50vh;
+    position: relative;
+     font-family: 'Martel Sans', sans-serif;
+
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    position: relative;
+    gap: 23px;
+    padding:0 30px;
 }
