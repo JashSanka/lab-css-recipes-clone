@@ -53,10 +53,11 @@ h1{
       margin: auto;
     padding: 20px 20px 40px 40px;
     width: 70vw;
-    font-family: 'Times New Roman', Times, serif;
+    
     margin-top: 50px;
     font-size: 30px;
-    font-weight: lighter;
+     font-family: 'Roboto', Arial, sans-serif;
+    font-weight: 300;
     
 }
 .separation{
